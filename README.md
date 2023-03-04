@@ -10,3 +10,7 @@ Correlation.
 Linear Regression.     
 Performance Metrics.       
 Visualisation.
+
+# Contributors 
+Sai Shivani Vilasagaram    
+Sai Kiran Ale
